@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/playwright:v1.41.0-focal
+FROM mcr.microsoft.com/playwright:v1.54.1-focal
 
 WORKDIR /app
 
